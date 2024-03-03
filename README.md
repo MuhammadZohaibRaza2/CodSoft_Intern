@@ -1,23 +1,27 @@
 # CodSoft Internship Repository
-CodSoft Internship: Elevating coding skills and innovation as I embark on a dynamic journey in C++ development at CodSoft. Join me as I dive into projects, hone skills, and contribute to cutting-edge solutions.
-# Muhammad Zohaib Raza
-# Date: 02/07/2024
+Welcome to my CodSoft Internship Repository! Here, I'll be documenting my journey as I delve into C++ development at CodSoft. Join me as I explore projects, sharpen my skills, and contribute to innovative solutions.
 
-# Task 1: Number Guessing Game
-# Description:
-This program is a number guessing game. The program generates a random number between the given range and prompts the user to guess the number. The program provides feedback if the guess is too high or too low and continues until the user guesses the correct number. Finally, it displays the number of guesses it took to guess the correct number.
+## Muhammad Zohaib Raza
+Date: 02/07/2024
 
-# Task 2: Simple Calculator
-# Description:
-This program is a simple calculator that takes two numbers and an operator as input and returns the result of the operation. It can handle basic arithmetic operations such as addition, subtraction, multiplication, and division. The program also handles invalid input, such as an invalid operator.
+## Tasks Overview:
 
-# Task 3: Tic Tac Toe Game
-# Description:
-This is a simple Tic Tac Toe game played on a 3x3 grid. It is a two-player game where the first player is X and the second player is O. Players take turns placing their symbols on the grid, aiming to get three of their symbols in a row, column, or diagonal. The game ends when one player wins or if the grid is full and there is no winner.
+### Task 1: Number Guessing Game
+**Description:**
+This program is a number guessing game. It generates a random number within a specified range and prompts the user to guess the number. Feedback is provided if the guess is too high or too low, and the game continues until the correct number is guessed. The program also displays the number of attempts taken to guess the correct number.
 
-# Instructions:
-Number Guessing Game: Compile and run the program. Follow the instructions to guess the correct number within the given range.
+### Task 2: Simple Calculator
+**Description:**
+A simple calculator program that takes two numbers and an operator as input and returns the result of the operation. It supports basic arithmetic operations like addition, subtraction, multiplication, and division. The program handles invalid inputs, including invalid operators.
 
-Simple Calculator: Compile and run the program. Enter two numbers and an operator (+, -, *, /) to perform the desired arithmetic operation.
+### Task 3: Tic Tac Toe Game
+**Description:**
+This is a classic Tic Tac Toe game played on a 3x3 grid. It's a two-player game where the symbols 'X' and 'O' are placed alternatively. Players aim to get three of their symbols in a row, column, or diagonal to win the game. The game ends when one player wins or the grid is full with no winner.
 
-Tic Tac Toe Game: Compile and run the program. Follow the on-screen instructions to play the game. Enter the position number where you want to place your symbol.
+## Instructions:
+- **Number Guessing Game:** Compile and run the program. Follow the instructions to guess the correct number within the given range.
+- **Simple Calculator:** Compile and run the program. Enter two numbers and an operator (+, -, *, /) to perform the desired arithmetic operation.
+- **Tic Tac Toe Game:** Compile and run the program. Follow the on-screen instructions to play the game. Enter the position number where you want to place your symbol.
+
+## License
+This repository and its contents are licensed under the terms of the MIT license.
